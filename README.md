@@ -6,16 +6,19 @@ This repository presents a comparative analysis of Deep Learning models for hear
 - Multilayer Perceptron (MLP) models
 - Convolutional Neural Networks (CNNs)
 
+
 🛠️ Project Details
 
 - MLP Models: Built using three different Python packages. 
 - CNN Models: Enhanced by applying two feature dimension reduction techniques.
 - Variations Considered: Layers, epochs, features, and learning rate were adjusted during training.
 
+
 📈 Findings
 
 - MLP models consistently outperformed CNN models, mainly because MLPs fully utilize available data, minimizing information loss.
 - All models achieved high accuracy, consistently exceeding 70%.
+
 
 ⚙️ Technologies Used
 
@@ -25,6 +28,7 @@ Python 3.8+
 - NumPy
 - Scikit-learn
 - Matplotlib (optional, for data visualization)
+
 
 🚀 How to Run
 
@@ -40,6 +44,17 @@ MLP-CNN.py
 
 4.View the results in the console or saved logs.
 
+## 📄 Report
+
+A detailed project report (in **Indonesian**) is included in this repository.  
+You can find it here:
+
+> 📄 **Filename:** `[INDONESIAN] Utilizing Deep Learning for Domain Knowledge Classification of Heart Disease.pdf`
+
+The report explains the background, methods, experiments, and findings of this project in greater depth.
+
+
 🔑 Keywords
 
 Deep Learning, MLP, CNN, Heart Disease Classification, Medical AI
+
