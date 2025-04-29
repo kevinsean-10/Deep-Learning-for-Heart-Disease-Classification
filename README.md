@@ -1,4 +1,4 @@
-📚 Overview
+# 📚 Overview
 
 Heart disorders are a common health issue influenced by various factors. Early and accurate diagnosis is crucial, often relying on the assessment of symptoms. By utilizing historical data of heart disease patients, this project applies Deep Learning (DL) techniques to predict heart disease presence based on detected symptoms.
 
@@ -7,20 +7,20 @@ This repository presents a comparative analysis of Deep Learning models for hear
 - Convolutional Neural Networks (CNNs)
 
 
-🛠️ Project Details
+# 🛠️ Project Details
 
 - MLP Models: Built using three different Python packages. 
 - CNN Models: Enhanced by applying two feature dimension reduction techniques.
 - Variations Considered: Layers, epochs, features, and learning rate were adjusted during training.
 
 
-📈 Findings
+## 📈 Findings
 
 - MLP models consistently outperformed CNN models, mainly because MLPs fully utilize available data, minimizing information loss.
 - All models achieved high accuracy, consistently exceeding 70%.
 
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Python 3.8+
 - TensorFlow 2.x
@@ -30,7 +30,7 @@ Python 3.8+
 - Matplotlib (optional, for data visualization)
 
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repository:
 ```git clone https://github.com/your-username/your-repo-name.git```
@@ -44,7 +44,7 @@ MLP-CNN.py
 
 4.View the results in the console or saved logs.
 
-## 📄 Report
+# 📄 Report
 
 A detailed project report (in **Indonesian**) is included in this repository.  
 You can find it here:
@@ -54,7 +54,7 @@ You can find it here:
 The report explains the background, methods, experiments, and findings of this project in greater depth.
 
 
-🔑 Keywords
+##🔑 Keywords
 
 Deep Learning, MLP, CNN, Heart Disease Classification, Medical AI
 
