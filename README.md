@@ -54,7 +54,7 @@ You can find it here:
 The report explains the background, methods, experiments, and findings of this project in greater depth.
 
 
-##🔑 Keywords
+## 🔑 Keywords
 
 Deep Learning, MLP, CNN, Heart Disease Classification, Medical AI
 
