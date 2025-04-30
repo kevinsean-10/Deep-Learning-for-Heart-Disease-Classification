@@ -1,4 +1,8 @@
-# 📚 Overview
+## ✒️ Author
+- Kevin Sean Hans Lopulalan
+- [Fadlan Adhari](https://www.linkedin.com/in/fadlan-adhari/)
+
+## 📚 Overview
 
 Heart disorders are a common health issue influenced by various factors. Early and accurate diagnosis is crucial, often relying on the assessment of symptoms. By utilizing historical data of heart disease patients, this project applies Deep Learning (DL) techniques to predict heart disease presence based on detected symptoms.
 
@@ -7,7 +11,7 @@ This repository presents a comparative analysis of Deep Learning models for hear
 - Convolutional Neural Networks (CNNs)
 
 
-# 🛠️ Project Details
+## 🛠️ Project Details
 
 - MLP Models: Built using three different Python packages. 
 - CNN Models: Enhanced by applying two feature dimension reduction techniques.
@@ -44,7 +48,7 @@ MLP-CNN.py
 
 4. View the results in the console or saved logs.
 
-# 📄 Report
+## 📄 Report
 
 A detailed project report (in **Indonesian**) is included in this repository.  
 You can find it here:
