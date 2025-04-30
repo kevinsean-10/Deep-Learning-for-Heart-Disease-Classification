@@ -42,7 +42,7 @@ Python 3.8+
 3. Train and test the model:
 MLP-CNN.py
 
-4.View the results in the console or saved logs.
+4. View the results in the console or saved logs.
 
 # 📄 Report
 
