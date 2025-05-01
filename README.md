@@ -53,6 +53,7 @@ MLP-CNN.py
 A detailed project report (in **Indonesian**) is included in this repository.  
 You can find it here:
 
+> 📄 **Filename:** `[ENGLISH] Utilizing Deep Learning for Domain Knowledge Classification of Heart Disease.pdf`
 > 📄 **Filename:** `[INDONESIAN] Utilizing Deep Learning for Domain Knowledge Classification of Heart Disease.pdf`
 
 The report explains the background, methods, experiments, and findings of this project in greater depth.
