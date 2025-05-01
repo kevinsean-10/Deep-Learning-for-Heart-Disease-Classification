@@ -37,7 +37,7 @@ Python 3.8+
 ## 🚀 How to Run
 
 1. Clone the repository:
-```git clone https://github.com/your-username/your-repo-name.git```
+```git clone https://github.com/kevinsean-10/Deep-Learning-for-Heart-Disease-Classification.git```
 ```cd your-repo-name```
 
 2. Install required packages:
