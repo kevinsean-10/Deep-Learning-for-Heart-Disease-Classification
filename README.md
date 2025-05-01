@@ -54,6 +54,7 @@ A detailed project report (in **Indonesian**) is included in this repository.
 You can find it here:
 
 > 📄 **English:** [`[ENGLISH] Utilizing Deep Learning for Domain Knowledge Classification of Heart Disease.pdf`](https://github.com/kevinsean-10/Deep-Learning-for-Heart-Disease-Classification/blob/10856fffe25dc9ecce4aba9f06f338d0a615a35e/Reports/%5BENGLISH%5D%20Utilizing%20Deep%20Learning%20for%20Domain%20Knowledge%20Classification%20of%20Heart%20Disease.pdf)
+
 > 📄 **Indonesian:** [`[INDONESIAN] Utilizing Deep Learning for Domain Knowledge Classification of Heart Disease.pdf`](https://github.com/kevinsean-10/Deep-Learning-for-Heart-Disease-Classification/blob/10856fffe25dc9ecce4aba9f06f338d0a615a35e/Reports/%5BINDONESIAN%5D%20Utilizing%20Deep%20Learning%20for%20Domain%20Knowledge%20Classification%20of%20Heart%20Disease.pdf)
 
 The report explains the background, methods, experiments, and findings of this project in greater depth.
